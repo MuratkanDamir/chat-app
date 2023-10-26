@@ -1,0 +1,18 @@
+
+.custom-rounded{
+    border-radius: 5px;
+    background-color: #9400FF;
+}
+
+
+@media (max-width: 576px) {
+    .custom-rounded {
+      border-radius: 0;
+      height: 100vh;
+    }
+}
+
+  
+  
+  
+  
